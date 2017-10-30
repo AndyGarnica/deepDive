@@ -1,0 +1,46 @@
+.presentation{
+  background-image: url(../img/index.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.title-idx{
+  font-size: 10vh;
+  margin-top: 12vh;
+}
+.subtitle-idx{
+  font-size: 3vh;
+  margin-top: 3vh;
+  margin-bottom: 3vh
+}
+.btn-idx{
+  margin-top: 10vh;
+}
+.btn-size{
+  width: 60%;
+}
+.sgn-bkg{
+  background-image: url(../img/instimg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.title-sgn{
+  font-size: 8vh;
+  margin-top: 12vh;
+}
+.space-frm{
+  margin-top: 6vh;
+}
+.space{
+  margin-top: 10vh;
+}
+.space-sgup{
+  margin-top: 3vh;
+}
+.instimg{
+  background-image: url(../img/sgn-bkg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
